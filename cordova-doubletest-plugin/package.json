@@ -1,0 +1,129 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-customplugin-inappbrowser",
+        "scope": null,
+        "escapedName": "cordova-customplugin-inappbrowser",
+        "name": "cordova-customplugin-inappbrowser",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Projects\\nbworkspace-svn\\appdev\\trunk\\CH-App"
+    ]
+  ],
+  "_from": "cordova-customplugin-inappbrowser@1.0.4",
+  "_inBundle": false,
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "sha1-SHQj000TIDtjahMRyn7WTnEoXmI=",
+  "_location": "/cordova-customplugin-inappbrowser",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-customplugin-inappbrowser-1.0.0.tgz_1512477662596_0.04542836593464017"
+  },
+  "_npmUser": {
+    "name": "richa2904",
+    "email": "richa.mittal18@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-customplugin-inappbrowser@1.0.4",
+    "name": "cordova-customplugin-inappbrowser",
+    "escapedName": "cordova-customplugin-inappbrowser",
+    "rawSpec": "1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "1.0.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-customplugin-inappbrowser/-/cordova-customplugin-inappbrowser-1.0.4.tgz",
+  "_shasum": "487423d34d13203b636a1311ca7ed64e71285e62",
+  "_shrinkwrap": null,
+  "_spec": "cordova-customplugin-inappbrowser@1.0.4",
+  "_where": "D:\\svnCode\\aemrepos\\test\\CH-App",
+  "author": "Apache Software Foundation",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-inappbrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Cordova InAppBrowser Plugin",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "dist": {
+    "shasum": "3dbe665f4cac06f664ea9a73405235a0548c041d",
+    "tarball": "https://registry.npmjs.org/cordova-customplugin-inappbrowser/-/cordova-customplugin-inappbrowser-1.0.0.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "0.2.3": {
+        "cordova": ">=3.1.0"
+      },
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-firefoxos"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    "richa2904 <richa.mittal18@gmail.com>"
+  ],
+  "name": "cordova-doubletest-plugin",
+  "optionalDependencies": {},
+  "scripts": {
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests",
+    "test": "npm run jshint"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinujoseph25/test-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinujoseph25/test-plugin/issues"
+  },
+  "homepage": "https://github.com/vinujoseph25/test-plugin#readme"
+}
